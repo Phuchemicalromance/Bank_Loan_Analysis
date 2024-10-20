@@ -1,1 +1,2 @@
 # Bank_Loan_Analysis
+Ngân hàng X đã triển khai một chương trình cho vay vốn với lãi suất ưu đãi, bắt đầu từ tháng 1 năm 2021, nhằm thúc đẩy việc tiếp cận nguồn vốn vay cho các khách hàng cá nhân phục vụ các mục đích khác nhau. Đây là một trong những chiến lược quan trọng của ngân hàng trong nỗ lực mở rộng tệp khách hàng và tăng cường sức cạnh tranh trên thị trường tài chính, đặc biệt là trong lĩnh vực tín dụng. Khi chương trình kết thúc vào cuối năm 2021, ban lãnh đạo ngân hàng sẽ tiến hành đánh giá toàn diện để đo lường hiệu suất và hiệu quả của chương trình.
